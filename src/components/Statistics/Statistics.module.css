@@ -1,0 +1,11 @@
+.statistics{
+    text-align: initial;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.statisticsSpan{
+    margin-left: 10px;
+    color: tomato;
+}
